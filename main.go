@@ -1,6 +1,6 @@
 package main
 import (
-	"github.com/luomeiqin/router/common"
+	"github.com/luomeiqin/micro/router/common"
 	"fmt"
 )
 
